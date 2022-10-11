@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple steps:
    - A web browser to view the output.
 
 ## Setup
-   - To clone my repository run this command `https://github.com/juaryimami/todo-list-app.git`  
+   - To clone my repository run this command `https://github.com/juaryimami/leaderboard-project.git`  
 
 ## Run tests
    For tracking linters errors and also to run web pack manually locally you need to follow these steps:
