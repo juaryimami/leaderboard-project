@@ -3,7 +3,7 @@
 
 In this project, I set up my Leaderboard web page. My goal was add the functionality to add and update data using API. 
 
-![screenshot](/public/Screenshot from 2022-10-11 16-34-42.png)
+![screenshot](./public/Screenshot%20from%202022-10-11%2016-34-42.png)
 
 ## :red_circle: Live Demo
 You can view my hosted website in the link shown below.
