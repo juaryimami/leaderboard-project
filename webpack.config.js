@@ -8,15 +8,13 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },
-  // devServer: {
-  //   static: path.resolve(__dirname, 'src'),
-  //   port: 8080,
-  //   open: true,
-  //   hot: true,
-  // },
+
+  devtool: 'inline-source-map',
+
   devServer: {
     contentBase: './dist',
   },
+
   module: {
     rules: [
       {
@@ -29,6 +27,10 @@ module.exports = {
           // Compiles Sass to CSS
           'sass-loader',
         ],
+      },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: 'asset/resource',
       },
     ],
   },
