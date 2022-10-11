@@ -1,13 +1,13 @@
 # leaderboard-project
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-In this project, I set up my To-Do List web page. My goal was add the functionality to add and display each todo task inside my task list. 
+In this project, I set up my Leaderboard web page. My goal was add the functionality to add and update data using API. 
 
-![screenshot](/public/Screenshot%20from%202022-10-06%2009-06-02.png)
+![screenshot](/public/Screenshot from 2022-10-11 16-34-42.png)
 
 ## :red_circle: Live Demo
 You can view my hosted website in the link shown below.
-GitHub: [@JUPAC](https://juaryimami.github.io/todo-list-app/dist/)
+GitHub: [@JUPAC]()
 
 ## :hammer: Built With
 
@@ -52,10 +52,6 @@ To get a local copy up and running follow these simple steps:
    - For tracking the linter errors in CSS file run:
 
          npx stylelint "*/.{css,scss}"
-
-   - To run tests run the terminal below:
-
-         npm test
 
 ## :blue_book: Learning Objectives
 
