@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/prefer-default-export
 export const plainHTML = `
 <h1 class="title">Leaderboard</h1>
 <section class="content">
