@@ -3,11 +3,11 @@
 
 In this project, I set up my Leaderboard web page. My goal was add the functionality to add and update data using API. 
 
-![screenshot](./public/Screenshot%20from%202022-10-11%2016-34-42.png)
+![screenshot](./public/Screenshot%20from%202022-10-13%2011-24-46.png)
 
 ## :red_circle: Live Demo
 You can view my hosted website in the link shown below.
-GitHub: [@JUPAC]()
+GitHub: [@JUPAC](https://juaryimami.github.io/leaderboard-project/dist/)
 
 ## :hammer: Built With
 
@@ -30,7 +30,6 @@ To get a local copy up and running follow these simple steps:
 ## Setup
    - To clone my repository run this command `https://github.com/juaryimami/leaderboard-project.git`  
 
-## Run tests
    For tracking linters errors and also to run web pack manually locally you need to follow these steps:
 
    - After cloning the project you need to run this command
@@ -69,7 +68,7 @@ To get a local copy up and running follow these simple steps:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/juaryimami/todo-list-app/issues).
+Feel free to check the [issues page](https://github.com/juaryimami/leaderboard-project/issues).
 
 ## :grey_exclamation: Acknowledgments
 
