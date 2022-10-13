@@ -4,7 +4,12 @@ import { addScore, getScores } from './modules/score.js';
 
 const submit = document.querySelector('.submit');
 const refresh = document.querySelector('.refresh');
-
+document.addEventListener('DOMContentLoaded', () => {
+  getScores().then((listScore) => {
+    const scores = sortScores(listScore);
+    createTable(scores);
+  });
+});
 submit.addEventListener('click', (e) => {
   e.preventDefault();
   addScore();
